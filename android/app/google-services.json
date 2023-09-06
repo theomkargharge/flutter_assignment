@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "824244449812",
+    "project_id": "e-commerce-app-feefe",
+    "storage_bucket": "e-commerce-app-feefe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:824244449812:android:bf2fc683267cbec587ad01",
+        "android_client_info": {
+          "package_name": "com.example.e_commerce_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "824244449812-bnfivvnc5tmmm4u9kejcr5n39ifa5e0m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChbhl7nwYlYkBmJeLiq_bdtlz9XsnioF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "824244449812-bnfivvnc5tmmm4u9kejcr5n39ifa5e0m.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "824244449812-remagtiuni7bi3a6v3cis69d0r6n80ak.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.eCommerceApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
